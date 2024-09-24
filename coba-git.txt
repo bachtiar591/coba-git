@@ -1,3 +1,4 @@
 Coba github sejauh ini:
 - membuat repositori
 - create new file
+- mencoba edit
